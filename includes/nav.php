@@ -10,6 +10,6 @@
 			<li class="nav-item"><a class="nav-link" href="#" id="nav-item-5">表白墙</a></li>
 			<li class="nav-item"><a class="nav-link" href="#" id="nav-item-6">关于</a></li>
 		</ul>
-		<div class="ml-auto navbar-nav"><a class="nav-link p-0 m-0" href="#">卡尔·马克思&emsp;<img class="rounded-circle" src="/img/user/avatar/1.png" style="max-height: 48px" /></a></div>
+		<div class="ml-auto navbar-nav"><a class="nav-link p-0 m-0" href="/user.php" id="nav-user">卡尔·马克思&emsp;<img class="rounded-circle" src="/img/user/avatar/1.png" style="max-height: 48px" /></a></div>
 	</div>
 </nav>
